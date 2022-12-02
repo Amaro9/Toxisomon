@@ -1,0 +1,30 @@
+							
+							Toxisomon
+
+Cahier des charges
+
+Idée:
+
+Combat entre président dernier = élu président
+Arène en image choisis aléatoirement
+Système d'ulti 
+
+
+
+attacks=[]
+
+
+Listes Président :
+
+Eric Zemour (hp: , attacks: defense: speed:)
+
+
+
+Emmanuel Macron
+Marine LePen
+
+
+
+
+ 
+
